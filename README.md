@@ -181,4 +181,4 @@ QuantumMind/
 B.Tech CSE
 [GitHub](https://github.com/Shin001-dot) · shivampr2004@gmail.com
 
-*NOTE: This is project is underdevelopment it just need 3-D model for the topics so that it can provide better understanding to students
+*NOTE: This project is underdevelopment it just need 3-D model for the topics so that it can provide better understanding to students
